@@ -55,7 +55,7 @@
 // #include<stdio.h>
 
 // int main(){
-//     int a, divide;
+//     int a;
 //     printf("Enter a number to check weather it is divisible by 9 or not: ");
 //     scanf("%d", &a);
 //     if(a % 9 == 0)
@@ -86,7 +86,7 @@
 //     }
 //     else
 //     {
-//         printf("The alphabet %c is Consinants.\n", alphabet );
+//         printf("The alphabet %c is Consonants.\n", alphabet );
 //     }
     
 //     return 0;
@@ -114,8 +114,7 @@
 // }
 
 // //5.
-// #include<stdio.h>
-
+// #
 // int main(){
 //     int a,b,c;
 //     printf("Enter Three number:");
@@ -144,7 +143,7 @@
 //     scanf("%d" "%d" "%d", &a, &b, &c);
 //     if(a<b && a<c)
 //     {
-//         printf("%d is trhe smallest number\n", a);
+//         printf("%d is the smallest number\n", a);
 //     }
 //     else if(b<a && b<c)
 //     {
@@ -164,8 +163,6 @@
 // int main(){
 //     int a;
 
-//     do
-//     {
 //         printf("Enter the number between 0-9: ");
 //         scanf("%d", &a);
 
@@ -205,7 +202,7 @@
 //             printf("Invalid input. Please enter a number between 0 and 9.\n");
 //             break;
 //         }
-//     } while (a >= 0 && a <= 9);
+    
 
 //     return 0;
 // }
@@ -269,7 +266,6 @@
 
 // //9.
 // #include<stdio.h>
-
 // int main(){
 //     int i;
 //     printf("The number in descending order: \n");
@@ -308,20 +304,27 @@
 
 // //12.
 
-// #include<stdio.h>
+// #include<stdio.h> 
 
 // int main(){
 //     int i = 1;
+//     printf("The odd number are: \n");
 //     while(i<=100)
 //     {
 //         if(i % 2 != 0)
 //         {
-//             printf("The number %d is Odd\n", i);
+//             printf("%d", i);
+//              if(i < 99)
+//             {
+//                printf(","); 
+//             }
 //         }
+        
 //         i++;
 //     }
 //     return 0;
 // }
+
 
 // //13.
 
@@ -357,11 +360,11 @@
 //     }
 //     if(sum == original)
 //     {
-//         printf("The number %d is an Armstrong number.\n", original);
+//         printf("The number %d is an Armstrong number.\n", a);
 //     }
 //     else
 //     {
-//         printf("The number %d is not an Armstrong number.\n", original);
+//         printf("The number %d is not an Armstrong number.\n", a);
 //     }
 
 //     return 0;
