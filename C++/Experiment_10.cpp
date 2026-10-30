@@ -1,3 +1,9 @@
+/*Name: Mayank Rathor
+Batch: F-2
+Roll Number: 31
+*/
+//Experiment-10
+
 // Program 1: Scholarship Eligibility Using If-Else
     
 
