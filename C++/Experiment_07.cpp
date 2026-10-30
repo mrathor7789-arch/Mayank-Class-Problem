@@ -1,3 +1,8 @@
+/*Name: Mayank Rathor
+Batch: F-2
+Roll Number: 31
+*/
+//Experiment-07
 
 #include <stdio.h>
 #include <stdlib.h>
