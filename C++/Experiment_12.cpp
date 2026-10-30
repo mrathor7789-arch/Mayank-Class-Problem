@@ -1,3 +1,9 @@
+/*Name: Mayank Rathor
+Batch: F-2
+Roll Number: 31
+*/
+//Experiment-12
+
 #include <iostream>
 using namespace std;
 
